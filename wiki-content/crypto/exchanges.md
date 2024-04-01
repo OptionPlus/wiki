@@ -30,3 +30,7 @@ Ja osobne používam float rate a zatiaľ som vždy dostal plus ale skúsenosti 
 
 Ešte prikladán zoznam zmenárni kt. sa kumne dostal (neviem ako moc je up to date a ako moc sú tie zmenárne dobré/zlé okrem tých kt. som spomenul vyššie):
 <a href="https://docs.google.com/spreadsheets/d/1GPZMY2yIhqRwykoGDfKdGYrFESmz6jRLk-YpwQJ7G-U/edit#gid=0">https://docs.google.com/spreadsheets/d/1GPZMY2yIhqRwykoGDfKdGYrFESmz6jRLk-YpwQJ7G-U/edit#gid=0</a>
+
+## Ďaľšie info
+Toto bol stručný základ, pokračovať v štúdiu môžeš napríklad tu:
+ - <a href="https://juraj.bednar.io/zoznam-derivatovych-burz/">https://juraj.bednar.io/zoznam-derivatovych-burz/</a>, kde okrem iného nájdeš aj  zoznam derivátových búrz kt. Juraj udržiava
